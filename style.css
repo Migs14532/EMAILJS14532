@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 200%;
+ }
+ body {
+  background-image: url("J4o.gif");
+  background-size: cover;
+  text-align: center;
+  margin: 10% auto;
+ }
+
+ label {
+    color: white;
+    font-size: 150%;
+    padding: 5px;
+}
+input#name {
+    padding: 5px;
+
+}
+input#email {
+    padding: 5px;
+}
+input#emasubjectil {
+    padding: 5px;
+    margin-left: -10px;
+}
+input#message {
+    padding: 5px;
+}
+button {
+    padding: 10px;
+}
+
+footer {
+ color: white;
+ margin: 12%;
+ font-size: 150%;
+}
