@@ -1,5 +1,5 @@
 (function () {
-    emailjs.init("ekpgtPW3xJLqbhy-X");
+    emailjs.init("nKti94iq8PJf32-cS");
     console.log("EmailJS initialized");
   })();
   
