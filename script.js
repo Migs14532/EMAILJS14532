@@ -9,7 +9,7 @@
       event.preventDefault();
       console.log("Form submitted");
   
-      emailjs.sendForm("service_j7zvhr1", "template_mhz2yqj", this).then(
+      emailjs.sendForm("service_q0ph04k", "template_3bs11sn", this).then(
         function () {
           console.log("Email sent successfully");
           alert("Message Sent Successfully!");
